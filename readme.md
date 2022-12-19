@@ -49,6 +49,7 @@ Students should develop a software system aimed at visual inspection of motorcyc
 An exemplar working image is provided below:
 
 ![](app/images/1/TESI00.BMP)
+![](app/images/1/TESI12.BMP)
 
 #### Functional specifications
 

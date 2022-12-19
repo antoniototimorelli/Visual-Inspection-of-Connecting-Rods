@@ -46,11 +46,9 @@ Students should develop a software system aimed at visual inspection of motorcyc
 
 3. Images have been taken by the backlighting technique so to render rods easily distinguishable (i.e. much darker) from background. However, for flexibility reasons the system should not require any change to work properly with lighting sources of different power.
 
-Two exemplar working images are provided below:
+An exemplar working image is provided below:
 
 ![](app/images/1/TESI00.BMP)
-
-![](app/images/1/TESI12.BMP)
 
 #### Functional specifications
 

@@ -86,7 +86,7 @@ Change 2.
 Change 3.
 
 
-<!-- INSTALLATION -->
+<!-- INSTALLING -->
 ### Requirements 
 
 - Python v. 3.7.x or later. Never tested with previous versions.
@@ -103,7 +103,7 @@ You can either execute the nootebook contained into the folder *'notebook'* or r
 
 <!-- FURTHER DEVELOPMENTS -->
 ### Further developments
-- Add sliding bars that allow to choose parameters values (e.g., median blur kernel size, signal to noise ratio threshold, ...) before performing the analysis so that one can manually establish the correct value.
+- Add sliding bars that allows to change parameters values (e.g., median blur kernel size, signal to noise ratio threshold, ...) before performing the analysis so that one can manually establish the correct value.
 
 - Make an executable file for the application. 
 

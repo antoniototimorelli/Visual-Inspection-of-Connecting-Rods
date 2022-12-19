@@ -48,8 +48,8 @@ Students should develop a software system aimed at visual inspection of motorcyc
 
 Two exemplar working images are provided below:
 
-![](app\images\1\TESI00.BMP)
-![](app\images\1\TESI12.BMP)
+![](app/images/1/TESI00.BMP)
+![](app/images/1/TESI12.BMP)
 
 #### Functional specifications
 
@@ -73,15 +73,15 @@ While still meeting the requirement of the First Task, students should modify th
 
 Exemplar working images corresponding to the three changes are provide below:
 
-![](app\images\2\c1\TESI44.BMP)
+![](app/images/2/c1/TESI44.BMP)
 
 Change 1.
 
-![](app\images\2\c2\TESI50.BMP)
+![](app/images/2/c2/TESI50.BMP)
 
 Change 2. 
 
-![](app\images\2\c3\TESI90.BMP)
+![](app/images/2/c3/TESI90.BMP)
 
 Change 3.
 

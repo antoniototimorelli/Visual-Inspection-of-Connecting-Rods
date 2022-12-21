@@ -103,7 +103,7 @@ You can either execute the nootebook contained into the folder *'notebook'* or r
 
 <!-- FURTHER DEVELOPMENTS -->
 ### Further developments
-- Add sliding bars that allows to change parameters values (e.g., median blur kernel size, signal to noise ratio threshold, ...) before performing the analysis so that one can manually establish the correct value.
+- Add sliding bars that allow to change parameters values (e.g., median blur kernel size, signal to noise ratio threshold, ...) before performing the analysis so that one can manually establish the correct value.
 
 - Make an executable file for the application. 
 
@@ -118,7 +118,7 @@ You can either execute the nootebook contained into the folder *'notebook'* or r
   - [Linkedin](https://www.linkedin.com/in/antonio-morelli-077a16220/) 
   - [GitHub](https://github.com/antoniototimorelli) 
   - antonio.morelli3@studio.unibo.it
-  - morelli.antonioai@gmail.com
+  - morelliantonioai@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
